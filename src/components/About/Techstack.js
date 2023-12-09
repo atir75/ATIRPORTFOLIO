@@ -17,6 +17,7 @@ import {
   SiFirebase,
   SiNextdotjs,
   SiCsharp,
+  SiDotnet,
   SiSolidity,
   SiPostgresql,
 } from "react-icons/si";
@@ -44,7 +45,7 @@ function Techstack() {
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <SiDotnet />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
